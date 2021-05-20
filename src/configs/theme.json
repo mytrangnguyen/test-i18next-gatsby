@@ -1,0 +1,96 @@
+{
+  "palette": {
+    "primary": "#0084D0",
+    "lightPrimary": "#4cb1e8",
+    "light": "#fff6dd",
+    "secondary": "rgba(45, 48, 71, 1)",
+    "loadingBackgroundColor": "#2c3e51cc",
+    "color": ["#788195", "#E4E6E9"]
+  },
+  "background": {
+    "container": "#f5f7fa",
+    "content": "#fff",
+    "input": "#F9F9F9",
+    "disabled": "#969696",
+    "headerTable": "#d4d2f450",
+    "blur": "#00000060",
+    "white": "#ffffff",
+    "black": "#000",
+    "grey35": "#F6F6F6",
+    "light": "#F9F9F9",
+    "secondLight": "#F4F4F4",
+    "searchInput": "#F3F3F3",
+    "gray": "#EAEAEA",
+    "graySecond": "#EEEEEE"
+  },
+  "text": {
+    "primary": "#000000",
+    "text": "#1f2933",
+    "lightPrimary": "#3e4c59",
+    "secondary": "#7b8794",
+    "description": "#555555",
+    "tabTitle": "#262626",
+    "empty": "#969696",
+    "highlight": "#5d4ec2",
+    "disabled": "#969696",
+    "formLabel": "#4a4a4a",
+    "headerTable": "#1f2933",
+    "white": "#fff",
+    "black": "#000",
+    "black3": "#333333",
+    "grey2": "#555",
+    "lightGrey": "#BEBEBE",
+    "grey3": "#707070",
+    "grey105": "#111111",
+    "grey4": "#4A4A4A",
+    "grey85": "#858585",
+    "grey6": "#6A6767",
+    "grey4D": "#4D4D4D",
+    "grey91": "#919191",
+    "grey3E": "#3E3E3E"
+  },
+  "fonts": {
+    "primary": "Myriad Pro"
+  },
+  "color": {
+    "green": "#4fcea2",
+    "red": "#e64c38",
+    "lightViolet": "#ee82ee",
+    "brightGreen": "#52c41a",
+    "blue": "#0992d0",
+    "orange": "#f5a623",
+    "darkOrange": "#f67800",
+    "pink": "#F75D81",
+    "limeGreen": "#4fcea2",
+    "lightGreen": "#3ebac2",
+    "blueShade": "#2d7fd3",
+    "yellow": "#FFCA28",
+    "violet": "#665ca7",
+    "purple": "#ac009f",
+    "blueSecondary": "#32A4FC",
+    "lightBlue": "#E9F4FF",
+    "warning": "#FB8429"
+  },
+  "border": {
+    "default": "#d4d2f450",
+    "light": "#e4e7eb",
+    "header": "#e5e5e5",
+    "lightGrey": "#EFEFEF",
+    "grey5": "#E0E0E0",
+    "modalFooter": "#E1E1E1"
+  },
+  "borderRadius": {
+    "default": "8px",
+    "checkbox": "4px",
+    "card": "10px"
+  },
+  "scrollbar": {
+    "thumb": "#b7b6c2",
+    "track": "#fff"
+  },
+  "footer": {
+    "background": "#000000",
+    "text": "#FFFFFF"
+  },
+  "shadow": "-5px 5px 10px rgba(220, 220, 220, 0.2), 5px -5px 10px rgba(217, 217, 217, 0.2), -5px -5px 10px rgba(255, 255, 255, 0.9), 5px 5px 33px rgba(220, 220, 220, 0.5), inset 1px 1px 2px rgba(255, 255, 255, 0.3), inset -1px -1px 2px rgba(219, 219, 219, 0.3)"
+}

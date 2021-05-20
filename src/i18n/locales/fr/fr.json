@@ -1,0 +1,55 @@
+{
+  "orders": {
+    "makeOffer": "Make an offer",
+    "makeOfferDesc": "If you love this work but its price is beyond your current allowance. Feel free to make an offer, we will handle all the negotiations for you.",
+    "yourOffer": "Your offer",
+    "noteToTheSeller": "Note to the seller",
+    "note": "Note: ",
+    "yourMessage":"Your message",
+    "listPrice": "List price",
+    "checkout":"Check out",
+    "noteDesc": "Keep in mind making an offer doesn’t guarantee you the work, as the seller might be receiving higher offers. ",
+    "promotionalCode":"Promotional code",
+    "shipping":"Shipping",
+    "tax":"Tax",
+    "total":"Total",
+    "logistics":"Logistics",
+    "paymentMethods":"Payment methods",
+    "bankTransfer":"Bank transfer",
+    "creditCard":"Credit card (coming soon)",
+    "deliverToMyPlace":"Deliver to my place",
+    "pickUp":"Pick-up work (Free)",
+    "yourPrice":"Your Price",
+    "promotionalCodeDesc":"Enter your code here",
+    "apply":"Apply",
+    "continue":"Continue",
+    "summary":"Order Summary",
+    "receiverName":"Receiver name",
+    "address":"Address",
+    "additionalAddress":"Additional address",
+    "country":"Country",
+    "city":"City",
+    "state":"State",
+    "zipCode":"Zip Code",
+    "phoneNumber":"Phone Number",
+    "requiredForCommunication":"Required for communication"
+  },
+  "contact": {
+    "contactPhoneContent": "Votre conseiller Karima joignable au",
+    "address": "43, rue de Liège 75008 Paris"
+  },
+  "login": {
+    "welcome":"Welcome to Terranubis"
+  },
+  "input": {
+    "email": {
+      "placeholder": "Adresse email"
+    },
+    "name": {
+      "placeholder": "Nom du défunt"
+    }
+  },
+  "button": {
+    "login": "Connexion"
+  }
+}
